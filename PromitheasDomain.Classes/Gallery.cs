@@ -10,13 +10,13 @@ namespace PromitheasDomain.Classes
     {
         public Gallery()
         {
-            ListImages = new List<Image>();
+            GalleryImages = new List<Image>();
         }
 
         public int GalleryId { get; set; }
         public int ShopId { get; set; }
-        public Shop Shop { get; set; }
-        public List<Image> ListImages { get; set; }
+        //public Shop Shop { get; set; }
+        public List<Image> GalleryImages { get; set; }
         public bool IsActive { get; set; }
     }
 }

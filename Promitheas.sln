@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromitheasDomain.Classes", "PromitheasDomain.Classes\PromitheasDomain.Classes.csproj", "{E185FF9B-47E5-44CC-83E5-E335532CC460}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromitheasDomain.DataModel", "PromitheasDomain.DataModel\PromitheasDomain.DataModel.csproj", "{E922C40F-D37E-4AA0-AAF8-1A1248DB978A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E185FF9B-47E5-44CC-83E5-E335532CC460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E185FF9B-47E5-44CC-83E5-E335532CC460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E185FF9B-47E5-44CC-83E5-E335532CC460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E922C40F-D37E-4AA0-AAF8-1A1248DB978A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E922C40F-D37E-4AA0-AAF8-1A1248DB978A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E922C40F-D37E-4AA0-AAF8-1A1248DB978A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E922C40F-D37E-4AA0-AAF8-1A1248DB978A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,8 +10,8 @@ namespace PromitheasDomain.Classes
     {
         public Shop()
         {
-            ListGalleries = new List<Gallery>();
-            ListSocialMedia = new List<SocialMedia>();
+            ShopGalleries = new List<Gallery>();
+            ShopSocialMedia = new List<SocialMedia>();
         }
 
         public int ShopId { get; set; }
@@ -32,10 +32,10 @@ namespace PromitheasDomain.Classes
         public string Skype { get; set; }
         public bool IsActive { get; set; }
         public ShopMembershipType ShopMembershipType { get; set; }
-        public List<Gallery> ListGalleries { get; set; }
-        public List<SocialMedia> ListSocialMedia { get; set; }
-        public Gallery Gallery { get; set; }
-        public SocialMedia SocialMedia { get; set; }
+        public List<Gallery> ShopGalleries { get; set; }
+        public List<SocialMedia> ShopSocialMedia { get; set; }
+        //public Gallery Gallery { get; set; }
+        //public SocialMedia SocialMedia { get; set; }
     }
 
 }
