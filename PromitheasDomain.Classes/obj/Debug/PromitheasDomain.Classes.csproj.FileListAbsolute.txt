@@ -1,0 +1,5 @@
+C:\_WORKS\george\_dev\Promitheas\PromitheasDomain.Classes\bin\Debug\PromitheasDomain.Classes.dll
+C:\_WORKS\george\_dev\Promitheas\PromitheasDomain.Classes\bin\Debug\PromitheasDomain.Classes.pdb
+C:\_WORKS\george\_dev\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.csprojResolveAssemblyReference.cache
+C:\_WORKS\george\_dev\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.dll
+C:\_WORKS\george\_dev\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.pdb
