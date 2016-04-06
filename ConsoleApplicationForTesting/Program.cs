@@ -13,7 +13,7 @@ namespace ConsoleApplicationForTesting
         static void Main(string[] args)
         {
             //InsertShop();
-            GetAllShops();
+            //GetAllShops();            
         }
 
         private static void InsertShop()
