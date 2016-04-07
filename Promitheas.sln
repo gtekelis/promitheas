@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationForTestin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministrationMVC", "AdministrationMVC\AdministrationMVC.csproj", "{D24EBE1B-9713-486F-8C79-8E886AA29EFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromitheasDashboardMVC", "PromitheasDashboardMVC\PromitheasDashboardMVC.csproj", "{C0620EED-3E04-45EF-8817-12CECBFF2505}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D24EBE1B-9713-486F-8C79-8E886AA29EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24EBE1B-9713-486F-8C79-8E886AA29EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D24EBE1B-9713-486F-8C79-8E886AA29EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0620EED-3E04-45EF-8817-12CECBFF2505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0620EED-3E04-45EF-8817-12CECBFF2505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0620EED-3E04-45EF-8817-12CECBFF2505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0620EED-3E04-45EF-8817-12CECBFF2505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
