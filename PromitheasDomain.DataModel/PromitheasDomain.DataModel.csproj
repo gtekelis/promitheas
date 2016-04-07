@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DisconnectedRepository.cs" />
     <Compile Include="Migrations\201604061305460_Initial.cs" />
     <Compile Include="Migrations\201604061305460_Initial.Designer.cs">
       <DependentUpon>201604061305460_Initial.cs</DependentUpon>
