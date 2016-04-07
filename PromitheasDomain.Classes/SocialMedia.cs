@@ -10,7 +10,7 @@ namespace PromitheasDomain.Classes
     {
         public int SocialMediaId { get; set; }
         public int ShopId { get; set; }
-        public Shop Shop { get; set; }
+        //public Shop Shop { get; set; }
         public string SocialMediaUrl { get; set; }
         public bool IsActive { get; set; }
     }

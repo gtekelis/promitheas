@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using PromitheasDomain.Classes;
 using PromitheasDomain.DataModel;
 using System.Data.Entity;
+using Newtonsoft.Json;
 
 namespace ConsoleApplicationForTesting
 {
@@ -15,8 +16,10 @@ namespace ConsoleApplicationForTesting
         {
             //InsertShop();
             //GetAllShops();            
-            GetShopGraph();
+            //GetShopGraph();
             //InsertShopWithSocialMedia();
+            GetShopProjection1();
+
         }
 
         private static void InsertShop()
@@ -53,6 +56,11 @@ namespace ConsoleApplicationForTesting
             {
                 var shop = context.Shops.Include(o => o.ShopSocialMedia).Where(o => o.Title == "Best Tattoos Ever").FirstOrDefault();
                 //context.Entry(shop).Collection(s => s.ShopSocialMedia).Load();
+
+                //play with json
+                var json = JsonConvert.SerializeObject(shop);
+                var deserializedShop = JsonConvert.DeserializeObject<Shop>(json);
+
                 return shop;
             }
         }
@@ -91,5 +99,18 @@ namespace ConsoleApplicationForTesting
 
 
         }
+
+        private static IEnumerable<object> GetShopProjection1()
+        {
+            using (var context = new PromitheasContext())
+            {
+                var shops = context.Shops.Select(o => new { o.Title, o.ShopSocialMedia }).ToList();
+                               
+                var json = JsonConvert.SerializeObject(shops);
+                
+                return shops;
+            }
+        }
     }
+
 }
