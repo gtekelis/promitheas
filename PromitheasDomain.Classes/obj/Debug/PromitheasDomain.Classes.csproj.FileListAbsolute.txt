@@ -7,4 +7,3 @@ C:\_Works\George\VisualStudioProjects\Promitheas\PromitheasDomain.Classes\bin\De
 C:\_Works\George\VisualStudioProjects\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.csprojResolveAssemblyReference.cache
 C:\_Works\George\VisualStudioProjects\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.dll
 C:\_Works\George\VisualStudioProjects\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.pdb
-C:\_WORKS\george\_dev\Promitheas\PromitheasDomain.Classes\obj\Debug\PromitheasDomain.Classes.csprojResolveAssemblyReference.cache
