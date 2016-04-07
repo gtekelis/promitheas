@@ -1,0 +1,14 @@
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\ConsoleApplicationForTesting.exe.config
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\ConsoleApplicationForTesting.exe
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\ConsoleApplicationForTesting.pdb
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\EntityFramework.dll
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\PromitheasDomain.Classes.dll
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\PromitheasDomain.DataModel.dll
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\PromitheasDomain.Classes.pdb
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\PromitheasDomain.DataModel.pdb
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\EntityFramework.xml
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\obj\Debug\ConsoleApplicationForTesting.csprojResolveAssemblyReference.cache
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\obj\Debug\ConsoleApplicationForTesting.exe
+C:\_Works\George\VisualStudioProjects\Promitheas\ConsoleApplicationForTesting\obj\Debug\ConsoleApplicationForTesting.pdb
